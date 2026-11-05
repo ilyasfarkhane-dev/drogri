@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 160 120">
+  <rect width="160" height="120" fill="#e8ecee"/>
+  <rect x="10" y="10" width="140" height="100" rx="18" fill="#ffffff" opacity="0.55"/>
+  <path d="M40 110 L80 36 L120 110 Z" fill="#8a9499"/><circle cx="80" cy="86" r="16" fill="#3d5a4c"/>
+  <text x="80" y="108" text-anchor="middle" font-family="Manrope,Arial,sans-serif" font-size="10" font-weight="700" fill="#3d5a4c">Outillage</text>
+</svg>

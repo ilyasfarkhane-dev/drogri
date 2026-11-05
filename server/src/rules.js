@@ -1,0 +1,2 @@
+export const money=n=>Math.round((Number(n)+Number.EPSILON)*100)/100;
+export function totals(lines,discount,paid,kind,customer){const subtotal=money(lines.reduce((s,l)=>s+l.qty*l.price,0));if(discount>subtotal)throw Error('La remise dépasse le sous-total');const total=money(subtotal-discount);if(paid>total)throw Error('Le paiement dépasse le total');if(kind==='sale'&&paid<total&&!customer)throw Error('Sélectionnez un client pour une vente à crédit');return total;}

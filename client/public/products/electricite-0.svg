@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 160 120">
+  <rect width="160" height="120" fill="#f7f0d8"/>
+  <rect x="10" y="10" width="140" height="100" rx="18" fill="#ffffff" opacity="0.55"/>
+  <rect x="36" y="44" width="88" height="72" rx="14" fill="#d2b35c" opacity="0.9"/><rect x="52" y="30" width="56" height="22" rx="8" fill="#6d5a24"/>
+  <text x="80" y="108" text-anchor="middle" font-family="Manrope,Arial,sans-serif" font-size="10" font-weight="700" fill="#6d5a24">Electricite</text>
+</svg>
